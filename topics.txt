@@ -1,0 +1,30 @@
+UNIT IV: Laplace Transforms
+---------------------------
+Definition of Laplace Transform.
+Laplace transform of standard functions.
+Existence of Laplace Transform.
+Inverse Laplace Transform.
+First Shifting Theorem.
+Transforms of derivatives and integrals.
+Unit step function.
+Second Shifting Theorem.
+Convolution Theorem.
+Laplace Transform of Periodic Functions.
+
+UNIT V: Fourier Series and Fourier Transforms
+---------------------------------------------
+Fourier Series:
+  - Determination of Fourier coefficients (Euler's)
+  - Dirichlet conditions for the existence of Fourier series
+  - Fourier series of even and odd functions
+  - Fourier series in an arbitrary interval
+  - Half-range Fourier sine and cosine expansions
+Fourier Transforms:
+  - Fourier integral theorem (without proof)
+  - Fourier sine and cosine integrals
+  - Complex form of Fourier integral
+  - Fourier transform
+  - Fourier sine and cosine transforms
+  - Properties of Fourier transforms
+  - Inverse Fourier transforms
+  - Convolution theorem
