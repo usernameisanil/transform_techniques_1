@@ -26,9 +26,9 @@ transform_techniques_1/
 ├── prompts/                     ← One detailed prompt per topic (01–18)
 │   ├── unit_iv/
 │   │   ├── topic_01_laplace_definition_standard_functions.md
-│   │   ├── ... (10 total)
+│   │   ├── ... (8 total)
 │   └── unit_v/
-│       ├── topic_11_fourier_series_coefficients_dirichlet.md
+│       ├── topic_01_fourier_coefficients.md
 │       ├── ... (8 total)
 └── responses/                   ← Placeholder .tex + .pdf for each topic
     ├── unit_iv/
@@ -54,14 +54,14 @@ transform_techniques_1/
 ### Unit V — Fourier Series and Fourier Transforms
 | # | Topic |
 |---|-------|
-| 09 | Fourier Coefficients (Euler's) & Dirichlet Conditions |
-| 10 | Fourier Series of Even and Odd Functions |
-| 11 | Fourier Series in Arbitrary Interval & Half-Range Expansions |
-| 12 | Fourier Integral Theorem & Sine/Cosine Integrals |
-| 13 | Complex Form of Fourier Integral & Fourier Transform |
-| 14 | Fourier Sine and Cosine Transforms |
-| 15 | Properties of Fourier Transforms |
-| 16 | Inverse Fourier Transforms & Convolution Theorem |
+| 01 | Fourier Series — Determination of Fourier Coefficients (Euler's) |
+| 02 | Dirichlet Conditions for the Existence of Fourier Series |
+| 03 | Fourier Series of Even and Odd Functions |
+| 04 | Fourier Series in an Arbitrary Interval |
+| 05 | Half-Range Fourier Sine and Cosine Expansions |
+| 06 | Fourier Integral Theorem, Sine & Cosine Integrals, Complex Form |
+| 07 | Fourier Transform, Sine & Cosine Transforms, Properties |
+| 08 | Convolution Theorem for Fourier Transforms |
 
 ---
 
